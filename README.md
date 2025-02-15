@@ -15,23 +15,20 @@ Este proyecto es una aplicación web desarrollada en PHP que permite gestionar l
 - PHP 7.0 o superior.
 - Un servidor web local (por ejemplo, Apache o Nginx). Puedes usar herramientas como [XAMPP](https://www.apachefriends.org/) o [WAMP](https://www.wampserver.com/).
 - Opcional: [Visual Studio Code](https://code.visualstudio.com/) con las extensiones **PHP Server** y **PHP Debug** para mejorar tu flujo de trabajo.
-Si usas la extensión PHP Server:
-Haz clic derecho sobre el archivo index.php y selecciona "PHP Server: Serve project".
-Accede a http://localhost:3000 (o el puerto que se indique) para ver la aplicación en acción.
-Estructura del Proyecto
-bash
-Copiar
-/LIBRERIA
-│
-├── index.php         # Página de inicio y configuración inicial
-├── register.php      # Formulario de registro de libros
-├── list.php          # Listado de libros con opciones de edición y eliminación
-├── update.php        # Formulario para actualizar la información de un libro
-├── delete.php        # Script para eliminar un libro
-├── contact.php       # Página de contacto
-├── header.php        # Menú de navegación común a todas las páginas
-├── styles.css        # Archivo de estilos mejorado
-└── README.md         # Este archivo
+
+- **Si usas la extensión PHP Server:**
+  - Haz clic derecho sobre el archivo index.php y selecciona "PHP Server: Serve project".
+  - Accede a http://localhost:3000 (o el puerto que se indique) para ver la aplicación en acción.
+- **Estructura del Proyecto**
+- index.php         # Página de inicio y configuración inicial
+- register.php      # Formulario de registro de libros
+- list.php          # Listado de libros con opciones de edición y eliminación
+- update.php        # Formulario para actualizar la información de un libro
+- delete.php        # Script para eliminar un libro
+- contact.php       # Página de contacto
+- header.php        # Menú de navegación común a todas las páginas
+- styles.css        # Archivo de estilos 
+- README.md         # Este archivo
 ## USO
 - Inicio: Página principal con bienvenida e instrucciones básicas.
 - Registrar Libro: Accede al formulario para añadir un nuevo libro.
