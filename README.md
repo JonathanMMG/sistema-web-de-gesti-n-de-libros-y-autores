@@ -33,9 +33,9 @@ Copiar
 ├── styles.css        # Archivo de estilos mejorado
 └── README.md         # Este archivo
 ## USO
-Inicio: Página principal con bienvenida e instrucciones básicas.
-Registrar Libro: Accede al formulario para añadir un nuevo libro.
-Listado de Libros: Visualiza todos los libros registrados y accede a opciones de edición o eliminación.
+- Inicio: Página principal con bienvenida e instrucciones básicas.
+- Registrar Libro: Accede al formulario para añadir un nuevo libro.
+- Listado de Libros: Visualiza todos los libros registrados y accede a opciones de edición o eliminación.
 
 ## AUTOR
 [JONATHAN MIGUEL MORETA GUAMAN]
